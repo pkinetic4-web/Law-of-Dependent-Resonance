@@ -32,3 +32,6 @@ IV. Call to Action: The Interconnected Mind
 ​Review SIMULATION_INPUTS.txt for the potential energy definitions.
 ​Contribute: Fork this repo, refine the math, and share your results.
 ​"The world has enough billionaires. It needs more Architects."
+
+"Open to technical consultation and architectural collaboration."
+pkinetic4@gmail.com 
