@@ -11,14 +11,14 @@ Project: Resonance-Core (The Law of Dependent Resonance)
 ​The Productive Tear: Structural stress is not a failure point but a growth engine. The crystal lattice "heals" the magnetic voids, expanding the structure.
 ​Piezoelectric Stabilization: A Quartz-Obsidian hybrid matrix that absorbs magnetic torque and converts it into harmonic oscillation.
 ​III. Technical Specifications (The Blueprint)
-​To achieve the Owen Threshold, the following parameters must be met in simulation or synthesis:
+​To achieve the Owens Threshold, the following parameters must be met in simulation or synthesis:
 
 Primary Matrix High-Purity Smoky Quartz (SiO_2)
 Magnetic Nuclei Iron-Cobalt (FeCo) Nanoparticles
-Tilt Constant 31.7^\circ offset per cell
+Tilt Constant 31.7° offset per cell
 Volumetric Overlap 15\%
-Initiation Pressure 12\text{--}15\text{ GPa}
-Magnetic Intensity 1.2\text{--}1.5\text{ Tesla} per nucleus
+Initiation Pressure 12-15GPa}
+Magnetic Intensity 1.2{--}1.5\{ Tesla} per nucleus
 
 IV. Call to Action: The Interconnected Mind
 ​We are seeking Computational Architects and Theoretical Physicists to perform the following:
